@@ -1,11 +1,12 @@
 {
-    "name": "Untitled",
+    "name": "rc car",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "servo": "*"
+        "servo": "*",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
